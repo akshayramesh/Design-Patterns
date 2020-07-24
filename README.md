@@ -7,6 +7,9 @@
 
 ## Creational Patterns
 1. Singleton pattern
+[This is a relative link to a nested file](Singleton/)
 
 2. Factory method pattern
+
+3. Fascade pattern
 
